@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Ingles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Ingles
+  m_TableCollectionNameGuidString: a48027e7cdfd1044e8f96ee3a2aaff92
+  m_Entries:
+  - m_Id: 6051749888
+    m_Key: HowToUse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349306015342592
+    m_Key: DesEnano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2214618432167936
+    m_Key: Descripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215548527468544
+    m_Key: Probabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215603372187648
+    m_Key: Alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215675631656960
+    m_Key: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215733932482560
+    m_Key: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244359260364800
+    m_Key: Apunta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245534416265216
+    m_Key: Ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2267781910650880
+    m_Key: "TextoAyuda\tUno"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268350511472640
+    m_Key: TextoAyudaDos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272063502311424
+    m_Key: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272366335254528
+    m_Key: Bienvenido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272591913312256
+    m_Key: BienvenidaTexto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2273331327164416
+    m_Key: Ecolocalizacion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2275497626460160
+    m_Key: BordeClaroDes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276114512109568
+    m_Key: CabreraDes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276666826448896
+    m_Key: HortelanoDes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277283103924224
+    m_Key: "RabudoDes\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277657126789120
+    m_Key: Itinerario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278124602941440
+    m_Key: RutaMorada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278471534796800
+    m_Key: SabiasUno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279279944949760
+    m_Key: SabiasDos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279723568095232
+    m_Key: RutaMurcielago
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1919272848697065688
+  references:
+    version: 2
+    RefIds:
+    - rid: 1919272848697065688
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1750693103138

@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Ingles_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a48027e7cdfd1044e8f96ee3a2aaff92, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6051749888
+    m_Localized: "C\xF3mo utilizar la app BatRuta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349306015342592
+    m_Localized: "Uno de los m\xE1s peque\xF1os de europa. De color marr\xF3n oscuro
+      mide entre 3.5 y 5.5 cm, con un peso de 3.5 a 8.5 g.\n\nSe refugia durante
+      todo el a\xF1o en grietas y oquedades, \xE1rboles, cajasnido y construcciones
+      humanas. \n\nForma colonias de decenas a cientos de individuos, principalmente
+      por hembras.\n\nEs una especie gemela del murci\xE9lago de cabrera  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2214618432167936
+    m_Localized: "Descripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215548527468544
+    m_Localized: Probabilidad de avistamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215603372187648
+    m_Localized: Alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215675631656960
+    m_Localized: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215733932482560
+    m_Localized: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244359260364800
+    m_Localized: Apunte hacia un QR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245534416265216
+    m_Localized: Ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2267781910650880
+    m_Localized: "Utiliza la aplicaci\xF3n para escanear los c\xF3digos QR a lo largo
+      del recorrido. Mu\xE9vete alrededor para explorar los detalles desde distintos
+      \xE1ngulos.\n\nLos QR se encuentran en postes cerca de cada uno de los nidos
+      de los murci\xE9lagos. Los podr\xE1s distinguir por el color violeta que los
+      rodea.\n\nEl inicio de la ruta se encuentra en la casa del forestal (Centro
+      de Interpretaci\xF3n Parque Natural La Mata).\n\nEjemplo QR:\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268350511472640
+    m_Localized: "Una vez detectado el QR podr\xE1s oir la ecolocalizaci\xF3n de
+      cada una de las especies pulsando el siguiente bot\xF3n:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272063502311424
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272366335254528
+    m_Localized: Bienvenido al Parque Natural de La Mata-Torrevieja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272591913312256
+    m_Localized: "Descubre la Ruta del Murci\xE9lago, un recorrido de 4 km donde
+      podr\xE1s observar hasta cinco nidos en su entorno natural.\n\nEscanea los
+      c\xF3digos QR a lo largo del recorrido para desbloquear contenido en realidad
+      aumentada. Mu\xE9vete alrededor para explorar los detalles desde distintos
+      \xE1ngulos.\n\nPara una mejor experiencia, realiza la ruta al atardecer o en
+      la noche.\n\nRespeta la naturaleza y sigue el sendero marcado.\n\n\xA1Disfruta
+      de la aventura!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2273331327164416
+    m_Localized: "Ecolocalizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2275497626460160
+    m_Localized: "Uno de los murci\xE9lagos m\xE1s comunes en zonas urbanas. \n\nPresenta
+      tonalidades marr\xF3n amarillenta o marr\xF3n rojizas. Mide entre 4 y 5.5 cm
+      y pesa entre 4 y 10 g.\n\nEmerge inmediatamente a la puesta del sol e incluso
+      a plena luz, con m\xE1xima actividad durante las primeras horas.\n\nSuele vivir
+      en colonias con un m\xE1ximo de veinte individuos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276114512109568
+    m_Localized: "Especie gemela del murci\xE9lago enano (Pipistrellus pipistrellus).
+      Se puede diferenciar ya que tiene un un pelaje m\xE1s claro .\n\nEs el murci\xE9lago
+      m\xE1s peque\xF1o de Europa con un tama\xF1o de  entre 2.8 a 3.2 cm.\r\n\r\nEs
+      una especie esencialmente fisur\xEDcola, que utiliza grietas, juntas de paredes
+      y techos para vivir.\n\nEs m\xE1s selectivo en la elecci\xF3n de los h\xE1bitats
+      de caza que el murci\xE9lago enano \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276666826448896
+    m_Localized: "Un murci\xE9lago de tama\xF1o mediano con un pelaje de tonos marr\xF3n
+      claro. Mide entre 6 y 7,5 cm y pesa de 12 a 20 g.\n\nPrefiere climas c\xE1lidos
+      y secos, Se halla en el Magreb desde Libia a Marruecos y en el sur de la pen\xEDnsula
+      ib\xE9rica. \n\nCazan insectos de gran tama\xF1o como escarabajos y polillas. 
+      \n\nLas hembras son de mayor tama\xF1o que los machos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277283103924224
+    m_Localized: "Un murci\xE9lago inconfundible por su gran tama\xF1o, la cola sobresaliente
+      y orejas de gran tama\xF1o. Mide entre 8 y 10 cm y pesa de 20 a 50 g.\n\nSe
+      refugia en grietas de acantilados, edificios altos y cavidades rocosas.\n\nEs
+      un excelente volador, capaz de alcanzar grandes alturas y velocidades. \n\nSus
+      colonias suelen ser peque\xF1as, con unos pocos individuos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277657126789120
+    m_Localized: Itinerario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278124602941440
+    m_Localized: Ruta morada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278471534796800
+    m_Localized: "Sab\xEDas qu\xE9: \n\nDurante primavera y verano es la \xE9poca
+      del a\xF1o de mayor actividad, es la \xE9poca de apareamiento.\nEn invierno,
+      muchas especies entran en hibernaci\xF3n.\n\nSalen al anochecer y vuelan durante
+      varias horas. Suelen estar m\xE1s activos al inicio de la noche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279279944949760
+    m_Localized: "Sab\xEDas qu\xE9: \n\nSe alimentan de insectos nocturnos como mosquitos,
+      polillas y escarabajos, lo que los convierte en aliados naturales contra plagas.\n\nUtilizan
+      un sistema similar a un sonar: emiten ultrasonidos y captan los ecos para orientarse
+      y cazar a oscuras con gran precisi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279723568095232
+    m_Localized: "Ruta del murci\xE9lago"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

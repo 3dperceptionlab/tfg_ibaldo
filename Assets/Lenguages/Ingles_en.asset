@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Ingles_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a48027e7cdfd1044e8f96ee3a2aaff92, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6051749888
+    m_Localized: How to use the app BatRuta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349306015342592
+    m_Localized: 'One of the smallest bats in Europe. Dark brown in color, it measures
+      between 3.5 and 5.5 cm and weighs 3.5 to 8.5 g.
+
+
+      It roosts year-round
+      in crevices and cavities, trees, nest boxes, and human-made structures.
+
+
+      It
+      forms colonies of tens to hundreds of individuals, mostly females.
+
+
+      It
+      is a twin species of the Cabrera bat.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2214618432167936
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215548527468544
+    m_Localized: Sighting Probability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215603372187648
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215675631656960
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2215733932482560
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244359260364800
+    m_Localized: Point at a QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245534416265216
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2267781910650880
+    m_Localized: "Use the app to scan the QR codes along the route. Move around to
+      explore the details from different angles.\n\nThe QR codes are located on posts
+      near each of the bat nests. You can recognize them by the purple color surrounding
+      them.\n\nThe starting point of the route is at the ranger\u2019s house (La
+      Mata Natural Park Interpretation Center).\n\nExample QR:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268350511472640
+    m_Localized: 'Once the QR is detected, you will be able to hear the echolocation
+      of each species by pressing the following button:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272063502311424
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272366335254528
+    m_Localized: Welcome to the La Mata-Torrevieja Natural Park
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272591913312256
+    m_Localized: 'Discover the Bat Route, a 4 km trail where you can observe up to
+      five nests in their natural environment.
+
+
+      Scan the QR codes along the
+      way to unlock augmented reality content. Move around to explore the details
+      from different angles.
+
+
+      For the best experience, take the route at sunset
+      or during the night.
+
+
+      Respect nature and stay on the marked trail.
+
+
+      Enjoy
+      the adventure!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2273331327164416
+    m_Localized: Echolocation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2275497626460160
+    m_Localized: 'One of the most common bats in urban areas.
+
+
+      It has yellowish-brown
+      or reddish-brown tones. It measures between 4 and 5.5 cm and weighs between
+      4 and 10 grams.
+
+
+      It emerges right at sunset, sometimes even in daylight,
+      with peak activity during the early evening hours.
+
+
+      It typically lives
+      in colonies of up to twenty individuals.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276114512109568
+    m_Localized: "Twin species of murci\xE9lago enano (Pipistrellus pipistrellus).
+      It can be distinguished by its lighter fur.\n\nIt is the smallest bat in Europe,
+      measuring between 2.8 and 3.2 cm.\n\nIt is primarily a crevice-dwelling species,
+      using cracks, wall joints, and roofs as shelter.\n\nIt is more selective in
+      choosing hunting habitats than the common pipistrelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2276666826448896
+    m_Localized: 'A medium-sized bat with light brown-toned fur. It measures between
+      6 and 7.5 cm and weighs between 12 and 20 grams.
+
+
+      It prefers warm, dry
+      climates. It is found in the Maghreb, from Libya to Morocco, and in the south
+      of the Iberian Peninsula.
+
+
+      It hunts large insects such as beetles and
+      moths.
+
+
+      Females are larger than males.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277283103924224
+    m_Localized: 'A bat that is unmistakable due to its large size, protruding tail,
+      and big ears. It measures between 8 and 10 cm and weighs between 20 and 50
+      grams.
+
+
+      It shelters in cliff crevices, tall buildings, and rocky cavities.
+
+
+      It
+      is an excellent flier, capable of reaching great heights and speeds.
+
+
+      Its
+      colonies are usually small, with only a few individuals.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2277657126789120
+    m_Localized: Itinerary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278124602941440
+    m_Localized: Purple route
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278471534796800
+    m_Localized: "Did you know:\n\nDuring spring and summer, bat activity is at its
+      peak \u2014 it\u2019s their mating season.\nIn winter, many species go into
+      hibernation.\n\nThey come out at dusk and fly for several hours. They are usually
+      most active at the beginning of the night."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279279944949760
+    m_Localized: 'Did you know:
+
+
+      They feed on nocturnal insects such as mosquitoes,
+      moths, and beetles, making them natural allies in pest control.
+
+
+      They
+      use a system similar to sonar: they emit ultrasonic sounds and detect the echoes
+      to navigate and hunt in the dark with great precision.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2279723568095232
+    m_Localized: Bat route
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
